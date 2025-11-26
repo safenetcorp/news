@@ -1,9 +1,8 @@
-{
-    "items" : [
-        {
-            "type" : "money",
-            "title" : "Подарок!",
-            "cost" : 0
-        }
-    ]
-}
+[
+    {
+        "type" : "money",
+        "title" : "Подарок К НГ!",
+        "cost" : 0,
+        "amount" : 500
+    }
+]
