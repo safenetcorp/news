@@ -1,7 +1,9 @@
-[
-  {
-    "type" : "money",
-    "title" : "Подарок!",
-    "cost" : 0
-  }
-]
+{
+    "items" : [
+        {
+            "type" : "money",
+            "title" : "Подарок!",
+            "cost" : 0
+        }
+    ]
+}
