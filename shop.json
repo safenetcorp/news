@@ -4,5 +4,11 @@
         "title" : "Подарок К НГ!",
         "cost" : 0,
         "amount" : 500
+    },
+    {
+        "type" : "gems",
+        "title" : "Подарок к НГ!",
+        "cost" : 0,
+        "amount" : 50
     }
 ]
