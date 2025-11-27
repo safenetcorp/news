@@ -1,5 +1,12 @@
 [
     {
+        "id" : "surprice",
+        "type" : "gems",
+        "title" : "нигер",
+        "cost" : 0,
+        "amount" : 9999
+    },
+    {
         "id" : "gl_01",
         "type" : "gems",
         "title" : "ПРИВЕТ 0.0.4!",
