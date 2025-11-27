@@ -1,11 +1,13 @@
 [
     {
+        "id" : "m_01",
         "type" : "money",
         "title" : "Подарок К НГ!",
         "cost" : 0,
         "amount" : 500
     },
     {
+        "id" : "g_01",
         "type" : "gems",
         "title" : "Подарок к НГ!",
         "cost" : 0,
