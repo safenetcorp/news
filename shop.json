@@ -12,5 +12,12 @@
         "title" : "Подарок к НГ!",
         "cost" : 0,
         "amount" : 50
+    },
+    {
+        "id" : "apkdoqk",
+        "type" : "money",
+        "title" : "ТЕСТ",
+        "cost" : 500,
+        "amount" : 1
     }
 ]
